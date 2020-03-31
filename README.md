@@ -3,7 +3,7 @@ Example of how to use the Coinbase Pro client library (https://github.com/dougde
 
 Please fill in your credentials to the authenticator in the CoinbaseProClient.cs file.
 
-<b>Endpoints<b>:
+<h1><b>Endpoints<b>:</h1>
 
 Accounts:
 
