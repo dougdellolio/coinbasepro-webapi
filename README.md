@@ -5,7 +5,7 @@ Please fill in your credentials to the authenticator in the CoinbaseProClient.cs
 
 ## <b>Endpoints<b>:
 
-Accounts:
+Accounts
 
 https://localhost:44305/accounts
 
